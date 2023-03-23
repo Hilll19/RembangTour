@@ -11,8 +11,8 @@
     font-family: 'Poppins', sans-serif;
 }
 :root {
-    --bg-color: #1f2d25;
-    --second-bg-color: #408b68;
+    --bg-color: #2b4637;
+    --second-bg-color: #2f7453;
     --text-color: #fff;
     --main-color: rgb(36, 130, 83);
 }
@@ -212,9 +212,8 @@ span {
     margin: 2rem 0 3rem;
 }
 /* Tour */
-/* Portofolio Sectio */
 .tour {
-    background: var(--second-bg-color);
+    background: var(--bg-color);
 }
 
 .tour h2 {
